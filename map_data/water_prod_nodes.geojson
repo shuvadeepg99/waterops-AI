@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "prod_layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Source_ID": "Supply_01", "Host_Region": "Unknown", "Region_Density": 0.0, "Elev_m": 51.942291259765625 }, "geometry": { "type": "Point", "coordinates": [ -0.110990854984929, 51.500569499623886 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Source_ID": "Supply_02", "Host_Region": "Unknown", "Region_Density": 239.2, "Elev_m": 116.04299163818359 }, "geometry": { "type": "Point", "coordinates": [ -3.146013088458379, 51.001337620131473 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Source_ID": "Supply_03", "Host_Region": "Unknown", "Region_Density": 308.5, "Elev_m": 176.64141845703125 }, "geometry": { "type": "Point", "coordinates": [ -1.903369802470914, 55.017895288719686 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Source_ID": "Supply_04", "Host_Region": "Unknown", "Region_Density": 312.4, "Elev_m": 96.043853759765625 }, "geometry": { "type": "Point", "coordinates": [ -0.806751065978861, 52.925189484542599 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "Source_ID": "Supply_05", "Host_Region": "Unknown", "Region_Density": 331.4, "Elev_m": 107.94622802734375 }, "geometry": { "type": "Point", "coordinates": [ 0.536156523099629, 52.24989255390993 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "Source_ID": "Supply_06", "Host_Region": "Unknown", "Region_Density": 355.8, "Elev_m": 62.750118255615234 }, "geometry": { "type": "Point", "coordinates": [ -1.228227523570374, 53.964828940548706 ] } }
+]
+}
